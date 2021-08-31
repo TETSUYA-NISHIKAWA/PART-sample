@@ -200,7 +200,7 @@ footer {
 .top-img {
     margin-top: 70px;
     height: 95vh;
-    background-image: url(../img/top_image.jpg);
+    background-image: url(https://github.com/TETSUYA-NISHIKAWA/PART/blob/main/img/top_image.jpg?raw=true);
     background-size: cover;
     background-position: center;
 }
@@ -213,7 +213,7 @@ footer {
 }
 
 .about {
-    background-image: url(../img/グループ\ 116.jpg);
+    background-image: url(https://github.com/TETSUYA-NISHIKAWA/PART/blob/main/img/%E3%82%AF%E3%82%99%E3%83%AB%E3%83%BC%E3%83%95%E3%82%9A%20116.jpg?raw=true);
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -352,7 +352,7 @@ h2 {
 /*------------　LOOKBOOK　-------------*/
 
 .ctr-lookbook {
-    background-image: url(../img/lookbook.jpg);
+    background-image: url(https://github.com/TETSUYA-NISHIKAWA/PART/blob/main/img/lookbook.jpg?raw=true);
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -558,7 +558,7 @@ article .ctr-online-item-last {
 .about-img {
     margin-top: 70px;
     height: 95vh;
-    background-image: url(../img/about3.jpg);
+    background-image: url(https://github.com/TETSUYA-NISHIKAWA/PART/blob/main/img/about3.jpg?raw=true);
     background-size: cover;
     background-position: center;
 }
@@ -658,7 +658,7 @@ article .ctr-online-item-last {
 }
 
 .lookbook-img {
-    background-image: url(../img/top_lookbook.jpg);
+    background-image: url(https://github.com/TETSUYA-NISHIKAWA/PART/blob/main/img/top_lookbook.jpg?raw=true);
     background-size: cover;
     background-position: -10px;
     height: 95vh;
